@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+protpdb/
+*.fasta
+*.txt
+download_metadata.json
